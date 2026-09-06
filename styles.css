@@ -1,0 +1,81 @@
+/* GLOBAL */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #ffffff;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* HEADER */
+.site-header {
+    text-align: center;
+    padding: 60px 20px 20px;
+}
+
+.site-header h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.tagline {
+    font-size: 16px;
+    color: #666;
+    margin-top: 8px;
+}
+
+/* HERO */
+.hero {
+    text-align: center;
+    padding: 40px 20px;
+    max-width: 700px;
+    margin: auto;
+}
+
+.hero h2 {
+    font-size: 22px;
+    font-weight: 400;
+    color: #444;
+}
+
+/* POSTS */
+.post-list {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.post-item {
+    padding: 30px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.post-item h3 {
+    font-size: 24px;
+    margin: 0 0 10px;
+}
+
+.excerpt {
+    color: #666;
+    margin: 0 0 6px;
+}
+
+.meta {
+    font-size: 14px;
+    color: #999;
+}
+
+/* FOOTER */
+.site-footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: #777;
+    font-size: 14px;
+}
